@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Peliohjelmointi\\Unreal\\TwinStickShooter\\Source\\TwinStickShooter\\TwinStickShooter.Build.cs",
+		"D:\\Peliohjelmointi\\Unreal\\TwinStickShooter\\Source\\TwinStickShooter.Target.cs",
+		"D:\\Peliohjelmointi\\Unreal\\TwinStickShooter\\Source\\TwinStickShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

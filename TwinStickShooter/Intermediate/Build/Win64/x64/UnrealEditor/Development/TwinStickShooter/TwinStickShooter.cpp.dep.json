@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\peliohjelmointi\\unreal\\twinstickshooter\\source\\twinstickshooter\\twinstickshooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\peliohjelmointi\\unreal\\twinstickshooter\\intermediate\\build\\win64\\x64\\twinstickshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\peliohjelmointi\\unreal\\twinstickshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twinstickshooter\\definitions.twinstickshooter.h",
+            "d:\\peliohjelmointi\\unreal\\twinstickshooter\\source\\twinstickshooter\\twinstickshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

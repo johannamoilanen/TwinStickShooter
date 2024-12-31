@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TwinStickShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Peliohjelmointi\Unreal\TwinStickShooter\Intermediate\Build\Win64\x64\TwinStickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\Peliohjelmointi\Unreal\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\BaseCharacter.gen.cpp.obj"
+"D:\Peliohjelmointi\Unreal\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\TwinStickShooter.init.gen.cpp.obj"
+"D:\Peliohjelmointi\Unreal\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
+"D:\Peliohjelmointi\Unreal\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\TwinStickShooter.cpp.obj"
+"D:\Peliohjelmointi\Unreal\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\Default.rc2.res"
+/OUT:"D:\Peliohjelmointi\Unreal\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\UnrealEditor-TwinStickShooter.lib"
